@@ -14,7 +14,7 @@ class App extends React.Component {
     }
 
     onChange = (event) => {
-        let value = event.target.value
+        let value = event.target.value.toLowerCase()
         this.setState({user_value: value})
 
         if (value === this.state.words[0][0]) {

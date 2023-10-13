@@ -1,12 +1,12 @@
 export const words = () => {
     return [
         ['sorry', 'сожалеть'],
-        ['introducing in', 'интересоваться'],
+        ['interested in', 'интересоваться'],
         ['on duty', 'дежурить'],
         ['afraid of', 'бояться'],
-        ['surprised of', 'быть удивленным'],
+        ['surprised at', 'быть удивленным'],
         ['fond of', 'увлекаться'],
-        ['engages', 'быть помолвленным'],
+        ['engaged', 'быть помолвленным'],
         ['up', 'заканчивать'],
         ['good at', 'хорошо разбираться'],
         ['at a loss', 'быть в растерянности'],
@@ -18,7 +18,7 @@ export const words = () => {
         ['free', 'быть свободным'],
         ['married', 'быть женатым'],
         ['thirsty', 'хотеть пить'],
-        ['famous of', 'быть знаменитым'],
+        ['famous for', 'быть знаменитым'],
         ['popular with', 'быть популярным среди'],
         ['angry with', 'сердиться на'],
         ['responsible for', 'быть ответственным'],
@@ -32,7 +32,7 @@ export const words = () => {
         ['in love with', 'быть влюбленным в'],
         ['in the way', 'мешаться'],
         ['on the pension', 'быть на пенсии'],
-        ['shamed', 'стыдиться'],
+        ['ashamed', 'стыдиться'],
         ['proud of', 'гордиться'],
-    ]
-}
+    ];
+};
