@@ -40,7 +40,7 @@ export const words = () => {
         ['celery', 'сельдерей', 'https://images.pexels.com/photos/907192/pexels-photo-907192.jpeg?auto=compress', 'sounds/celery.mp3'],
         ['mushroom', 'гриб', 'https://images.pexels.com/photos/1685650/pexels-photo-1685650.jpeg?auto=compress', 'sounds/mushroom.mp3'],
         ['potato', 'картофель', 'https://images.pexels.com/photos/144248/potatoes-vegetables-erdfrucht-bio-144248.jpeg?auto=compress', 'sounds/potato.mp3'],
-        ['squash', 'давить', 'https://images.pexels.com/photos/1527010/pexels-photo-1527010.jpeg?auto=compress', 'sounds/squash.mp3'],
+        ['squash', 'кабочок', 'https://images.pexels.com/photos/1527010/pexels-photo-1527010.jpeg?auto=compress', 'sounds/squash.mp3'],
         ['cabbage', 'капуста', 'https://images.pexels.com/photos/4585545/pexels-photo-4585545.jpeg?auto=compress', 'sounds/cabbage.mp3'],
         ['bean', 'фасоль', 'https://images.pexels.com/photos/768093/pexels-photo-768093.jpeg?auto=compress', 'sounds/bean.mp3'],
         ['hot pepper', 'острый перец', 'https://images.pexels.com/photos/806457/pexels-photo-806457.jpeg?auto=compress', 'sounds/hot pepper.mp3'],
