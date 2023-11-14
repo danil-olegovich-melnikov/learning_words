@@ -43,7 +43,7 @@ class App extends React.Component {
                         <div className="block">
                             <p>Осталось: {this.state.words.length} слов</p>
                             <h1>Перевод слова:</h1>
-                            <h2>{pair[1]}</h2>
+                            <h2>{pair[1]}-{pair[0]}</h2>
                             <input type="text" placeholder="пишите тут" value={this.state.user_value}
                                 onChange={this.onChange}/>
                             <div className={`btn ${this.state.is_disabled}`} onClick={this.onSubmit}>
